@@ -1,1 +1,6 @@
 venv/
+/data
+/scripts/__pycache*
+*.pyc
+__pycache__/
+/logs
