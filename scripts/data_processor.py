@@ -3,7 +3,7 @@ import numpy as np
 
 class DataPreprocessor:
     """
-    A class for preprocessing a dataset, including loading, cleaning, and handling missing values.
+    A class for preprocessing a dataset, including loading and handling missing values.
 
     Attributes:
     ----------
